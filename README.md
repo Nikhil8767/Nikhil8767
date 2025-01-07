@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Gupta</h1>
-<h3 align="center">A web developer and AI enthuciastic</h3>
+<h3 align="center">🚀 Web Developer | AI Enthusiast | Competitive Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil8767&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil8767" /> </p>
 
