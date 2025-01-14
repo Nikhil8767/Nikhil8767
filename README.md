@@ -1,6 +1,6 @@
 <p align="left">
   <img
-    src="https://komarev.com/ghpvc/?username=pratham-asrani"
+    src="https://komarev.com/ghpvc/?username=Nikhil Gupta"
     alt="Nikhil Gupta"
   />
 </p>
