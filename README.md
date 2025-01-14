@@ -48,13 +48,13 @@
 <br>
 <div align=center>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathamAsrani&layout=compact&theme=transparent&hide=php)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil8767&layout=compact&theme=transparent&hide=php)
 <br />
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PrathamAsrani&theme=dark" alt="GitHub Streak" /></a>  
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil8767&theme=dark" alt="GitHub Streak" /></a>  
 
 ## GitHub Profile Summary Card
-<a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrathamAsrani&theme=dracula">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrathamAsrani&theme=dracula" alt="Profile Details">
+<a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikhil8767&theme=dracula">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikhil8767&theme=dracula" alt="Profile Details">
 </a><br/>
 
 ## GitHub Contribution Summary
