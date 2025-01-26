@@ -51,7 +51,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil8767&layout=compact&theme=radical&hide=php" alt="Top Languages" />
   <br />
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil8767&theme=radical" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=Nikhil8767&theme=radical" alt="GitHub Streak" />
   </a>
 </div>
 
@@ -70,7 +70,7 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Nikhil8767/Nikhil8767/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://github.com/Nikhil8767/Nikhil8767/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
 ---
