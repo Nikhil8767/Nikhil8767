@@ -1,0 +1,6 @@
+*.cpp linguist-detectable=true
+*.py linguist-detectable=true
+*.js linguist-detectable=true
+*.ts linguist-detectable=true
+*.html linguist-detectable=true
+*.css linguist-detectable=true
