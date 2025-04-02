@@ -48,12 +48,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil8767&layout=compact&theme=radical&lang_count=10&include_all_commits=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil8767&layout=compact&theme=radical&langs_count=10&include_all_commits=true&exclude_repo=github-readme-stats" alt="Top Languages" />
   <br />
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Nikhil8767&theme=radical" alt="GitHub Streak" />
   </a>
 </div>
+
 
 ---
 
