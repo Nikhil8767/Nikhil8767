@@ -78,22 +78,15 @@
 
 ## 🌟 Highlighted Projects
 
-- **[Cafe Booking System](https://github.com/Nikhil8767/cafe-booking-system)**  
+- **[Cafe Booking System]()**  
   A full-stack project using **React**, **Node.js**, **Express.js**, **MongoDB**, and **Tailwind CSS**.
   
-- **[AI-Powered Chatbot](https://github.com/Nikhil8767/ai-chatbot)**  
+- **[AI-Powered Trip Planner]()**  
   Built a chatbot powered by **OpenAI's GPT-4 API** with **Next.js**.
 
-- **[Portfolio Website](https://github.com/Nikhil8767/portfolio)**  
+- **[blog site](https://github.com/Nikhil8767/portfolio)**  
   A sleek, responsive portfolio using **Next.js**, **Tailwind CSS**, and **Framer Motion**.
 
----
-
-## 💡 Fun Facts
-
-- 🧑‍💻 I love solving problems in **competitive programming**.  
-- 🖌️ My favorite design tools are **Figma** and **Canva**.  
-- 🚀 Always eager to learn and implement **cutting-edge technologies**.  
 
 ---
 
