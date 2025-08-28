@@ -70,9 +70,8 @@
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://github.com/Nikhil8767/Nikhil8767/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div>
+![Snake animation](https://raw.githubusercontent.com/Nikhil8767/Nikhil8767/output/github-contribution-grid-snake-dark.svg)
+
 
 ---
 
