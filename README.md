@@ -39,7 +39,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,nodejs,expressjs,ts,html,css,git,github,react,nextjs,vite,prisma,postman,vscode,mysql,postgres,mongodb,prisma,tailwind,docker,aws,vercel&perline=8" alt="Skills">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,nodejs,expressjs,ts,html,css,git,github,react,nextjs,go,golang,figma,shadcn,vite,prisma,postman,vscode,mysql,postgres,mongodb,prisma,tailwind,docker,aws,vercel&perline=8" alt="Skills">
   </a>
 </p>
 
