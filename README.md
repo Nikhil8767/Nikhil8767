@@ -58,7 +58,9 @@
 ## 🔥 GitHub Profile Summary Card
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikhil8767&theme=dracula" alt="Profile Summary">
+  <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikhil8767&theme=dracula" alt="Profile Summary"> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil8767&layout=compact&theme=radical&langs_count=10" />
+
 </div>
 
 ---
