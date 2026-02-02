@@ -47,19 +47,31 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil8767&layout=compact&theme=radical&langs_count=10&include_all_commits=true&exclude_repo=github-readme-stats" alt="Top Languages" />
   <br/><br/>
   <img src="https://streak-stats.demolab.com?user=Nikhil8767&theme=radical" alt="GitHub Streak" />
+</div> -->
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil8767&layout=compact&theme=radical&langs_count=10&cache_seconds=1800"
+    alt="Top Languages"
+  />
+  <br/><br/>
+  <img
+    src="https://streak-stats.demolab.com?user=Nikhil8767&theme=radical"
+    alt="GitHub Streak"
+  />
 </div>
+
 
 ---
 
 ## 🔥 GitHub Profile Summary Card
 
 <div align="center">
-  <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikhil8767&theme=dracula" alt="Profile Summary"> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil8767&layout=compact&theme=radical&langs_count=10" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikhil8767&theme=dracula" alt="Profile Summary">
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil8767&layout=compact&theme=radical&langs_count=10" /> -->
 
 </div>
 
