@@ -53,15 +53,13 @@
   <img src="https://streak-stats.demolab.com?user=Nikhil8767&theme=radical" alt="GitHub Streak" />
 </div> -->
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil8767&layout=compact&theme=radical&langs_count=10&cache_seconds=1800"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil8767&layout=compact&theme=radical&langs_count=10&include_all_commits=true&exclude_repo=github-readme-stats" alt="Top Languages" />
+  <br />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Nikhil8767&theme=radical" alt="GitHub Streak" />
+  </a>
   <br/><br/>
-  <img
-    src="https://streak-stats.demolab.com?user=Nikhil8767&theme=radical"
-    alt="GitHub Streak"
-  />
+  <!-- <img src="https://streak-stats.demolab.com?user=Nikhil8767&theme=radical" alt="GitHub Streak" /> -->
 </div>
 
 
